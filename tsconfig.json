@@ -15,7 +15,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@tp/utilities": ["libs/utilities/src/index.ts"],
+      "@tp/firebase": ["libs/firebase/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

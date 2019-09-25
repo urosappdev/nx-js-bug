@@ -7,5 +7,21 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "booking": {
+      "tags": []
+    },
+    "booking-e2e": {
+      "tags": []
+    },
+    "utilities": {
+      "tags": []
+    },
+    "firebase": {
+      "tags": []
+    },
+    "booking-api": {
+      "tags": []
+    }
+  }
 }
